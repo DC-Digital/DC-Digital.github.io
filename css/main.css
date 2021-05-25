@@ -1081,6 +1081,7 @@ button:focus {
     position: relative;
   }
     #team .single-team .team-details h5.team-title {
+      height: 75px;
       font-size: 20px;
       font-weight: 600;
       display: block;

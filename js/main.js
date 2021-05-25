@@ -26,8 +26,8 @@
       itemsTabletSmall: [480,1],
       itemsMobile : [479,1],
     });   
-    $('#client-testimonial').find('.owl-prev').html('<i class="lni-chevron-left"></i>');
-    $('#client-testimonial').find('.owl-next').html('<i class="lni-chevron-right"></i>');
+    $('#client-testimonial').find('.owl-prev').html('<i class="lni lni-chevron-left"></i>');
+    $('#client-testimonial').find('.owl-next').html('<i class="lni lni-chevron-right"></i>');
 
 
     /* showcase Slider
